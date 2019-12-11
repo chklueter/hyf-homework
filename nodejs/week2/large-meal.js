@@ -1,7 +1,7 @@
 const express = require("express");
 const fs = require("fs");
 
-const app = express();
+const app1 = express();
 
 // Respond with the json for all the meals (including it's reviews) that can fit lots of people
 
